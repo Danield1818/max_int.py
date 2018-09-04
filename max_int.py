@@ -1,6 +1,5 @@
 #Seinni tilraun til að uppfæra algrím
 
-
 num_int = int(input("Input a number: "))    # Do not change this line
 max_int = 0
 
